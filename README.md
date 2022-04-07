@@ -4,7 +4,7 @@
 
 Cao Thế Thuận (20520793)
 
-![z3321770570993_c606767dfbeabb4f95dfb14f17910fd7](https://user-images.githubusercontent.com/79263846/162102270-499d370e-f7cb-4cf2-a221-f37762990425.jpg)
+![z3321813770711_b4f1d3006180c9ea9be444d68b80dc1d](https://user-images.githubusercontent.com/79263846/162103920-05ec2baa-ff6d-4ffd-93af-e408bb47d9dc.jpg)
 
 Nguyễn Quốc Thái (20520304)
 
