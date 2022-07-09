@@ -66,5 +66,6 @@
 </table>
 
 - **Hình Thuận, Thái, và Nhân**
-<img scr="https://user-images.githubusercontent.com/79263846/162103920-05ec2baa-ff6d-4ffd-93af-e408bb47d9dc.jpg" width="250"> <img scr="https://user-images.githubusercontent.com/79263846/162101923-3ad8fb8b-4a8d-464a-b134-6c47263c4e13.jpg" width="250"> <img scr="https://user-images.githubusercontent.com/79263846/162102685-6be278f0-53f7-438f-85cd-1d22afb29c31.jpg" width="250"> 
+
+<img src="https://user-images.githubusercontent.com/79263846/162103920-05ec2baa-ff6d-4ffd-93af-e408bb47d9dc.jpg" width=250> <img src="https://user-images.githubusercontent.com/79263846/162101923-3ad8fb8b-4a8d-464a-b134-6c47263c4e13.jpg" width=250> <img src="https://user-images.githubusercontent.com/79263846/162102685-6be278f0-53f7-438f-85cd-1d22afb29c31.jpg" width=250> 
 
