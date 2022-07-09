@@ -43,17 +43,20 @@
        <td>https://github.com/Mrthuancao</td>
        <td>20520793@gm.uit.edu.vn</td>  
       </tr>
+      <tr>
+       <td>Nguyễn Quốc Thái</td>
+       <td>20520304</td>
+       <td>https://github.com/Mrthuancao</td>
+       <td>20520304@gm.uit.edu.vn</td>  
+      </tr>
 </table>
 
 <h2>
   Chủ đề báo cáo 
 </h2>
 
-- **Số thứ tự chủ đề:** 4
-- **Tên chủ đề:** Phương pháp thiết kế thuật toán: Completed search - Brute Force
+- **Tên chủ đề:** Nhận diện tư thế xấu - Bad postures detection
 
-
-# CS1114.M21.KHCL.N05
 
 ## Team members:
 
