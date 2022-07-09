@@ -28,7 +28,7 @@
 </h2>
 
 - **Số thứ tự nhóm:** 5
-- **Thông tin thành viên** 
+- **Thông tin thành viên:** 
 
 <table align="center">
       <tr>
@@ -68,4 +68,13 @@
 - **Hình Thuận, Thái, và Nhân**
 
 <img src="https://user-images.githubusercontent.com/79263846/162103920-05ec2baa-ff6d-4ffd-93af-e408bb47d9dc.jpg" width=250> <img src="https://user-images.githubusercontent.com/79263846/162101923-3ad8fb8b-4a8d-464a-b134-6c47263c4e13.jpg" width=250> <img src="https://user-images.githubusercontent.com/79263846/162102685-6be278f0-53f7-438f-85cd-1d22afb29c31.jpg" width=250> 
+
+<h2>
+   Links
+</h2>
+
+- **Link Drive của Yolov5:** https://drive.google.com/drive/folders/1-LM1gl46XMm-YcbSDzAgl3ZS-kq11QLp?usp=sharing 
+- **Link Drive của Data:** https://drive.google.com/drive/folders/1w70_DTD1P3LP5Rv-3hM6hMxclH56RVHO?usp=sharing
+- **Link Data test sau khi detect:** https://drive.google.com/drive/folders/10kS2C79dYKQtVcHOWfLgFORL23z2WFXy?usp=sharing
+- **Link Google sheet thống kê kết quả:** https://docs.google.com/spreadsheets/d/1q1UoZ-WjqKiocIEUgzwjlMTBCe7pIiWf6trGOEYEPVE/edit?usp=sharing
 
