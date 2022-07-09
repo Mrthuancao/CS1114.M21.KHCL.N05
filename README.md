@@ -74,6 +74,7 @@
 </h2>
 
 - **Link Drive của Yolov5:** https://drive.google.com/drive/folders/1-LM1gl46XMm-YcbSDzAgl3ZS-kq11QLp?usp=sharing 
+- **Link Drive của Yolov4 và VGG16:** https://drive.google.com/drive/folders/1s12znR1Vl9eWJ8l_mA23Y_jN2H9058HF?usp=sharing
 - **Link Drive của Data:** https://drive.google.com/drive/folders/1w70_DTD1P3LP5Rv-3hM6hMxclH56RVHO?usp=sharing
 - **Link Data test sau khi Yolov5 detect:** https://drive.google.com/drive/folders/10kS2C79dYKQtVcHOWfLgFORL23z2WFXy?usp=sharing
 - **Link Data test sau khi Yolov4 detect:** https://drive.google.com/drive/folders/1roy5NWgyY6b6A8QDvakhuNc21tzVkMZ3?usp=sharing
