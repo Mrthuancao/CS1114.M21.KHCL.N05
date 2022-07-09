@@ -18,6 +18,12 @@
 - **Giảng viên:** Ths. Phạm Nguyễn Trường An - truonganpn@uit.edu.vn
 
 <h2>
+  Chủ đề báo cáo 
+</h2>
+
+- **Tên chủ đề:** Nhận diện tư thế xấu - Bad postures detection
+
+<h2>
    Giới thiệu nhóm
 </h2>
 
@@ -30,35 +36,35 @@
        <th>MSSV</th>
        <th>Github</th>
        <th>Email</th>
+       <th>Hobbies</th>
+       <th>Hometown</th>
       </tr>
       <tr>
        <td>Nguyễn Trung Nhân</td>
        <td>20520670</td>
        <td>https://github.com/MickeyNeo</td>
        <td>20520670@gm.uit.edu.vn</td>  
+       <td>Chơi game, chơi cổ phiếu, ...</td>
+       <td>Bà Rịa</td>
       </tr>
       <tr>
        <td>Cao Thế Thuận</td>
        <td>20520793</td>
        <td>https://github.com/Mrthuancao</td>
        <td>20520793@gm.uit.edu.vn</td>  
+       <td>Chơi nhạc, chơi game, ...</td>
+       <td>An Giang</td>
       </tr>
       <tr>
        <td>Nguyễn Quốc Thái</td>
        <td>20520304</td>
        <td>https://github.com/Mrthuancao</td>
        <td>20520304@gm.uit.edu.vn</td>  
+       <td>Chơi game, đi bơi, ...</td>
+       <td>Vĩnh Long</td>
       </tr>
 </table>
 
-<h2>
-  Chủ đề báo cáo 
-</h2>
-
-- **Tên chủ đề:** Nhận diện tư thế xấu - Bad postures detection
-
-
-## Team members:
 
 Name: Cao Thế Thuận 
 
