@@ -1,0 +1,54 @@
+VGG16: Do không lưu được model nên phải chạy lại từ đầu
+-Chạy tất cả các cell theo thứ tự từ trên xuống dưới
+
+*****Preprocessing*****
+-Trong cell chứa path đổi đường dẫn thích hợp đến folder chứadarknet/ALPHABET (1)/test(train)
+-Cell chứa save paths đổi đường dẫn thích hợp đến tập train đã được crop ảnh Máy_học_CS114/Data/Data_crop
+
+*****Chuẩn bị data*****
+-Ở cell Train_dir đổi đường dẫn đến thư mục có chứa folder Data/Data_crop
+
+*****Load model VGG16*****
+-Cell model_checkpoint đổi đường dẫn đến folder lưu (ở đâu cũng được)
+
+*****Test*****
+-Đổi đường dẫn đến 1 ảnh muốn test thử
+
+*****Test bằng tập Datatest*****
+-Cell path đổi đường dẫn đến thư mục chứa ảnh test đã được yolov5 crop ảnh trước
+-Cell dfcon.to_csv đổi đường dẫn đến thư mục lưu file csv predict_label tùy thích
+-Cell test đổi đường dẫn đến file csv chứa label đúng của các ảnh
+-Cell predict đổi đường dẫn đến file csv chứa predict_label của các ảnh
+==================================================================================
+YOLOv4
+-Chạy tất cả các cell theo thứ tự từ trên xuống dưới
+
+*****Tải darknet*****
+-Đổi đường dẫn chứa thư mục để clone darknet về
+
+*****Tải yolov4*****
+-Đổi đường dẫn chỉ đến folder darknet
+
+*****Chuẩn bị data*****
+-Đổi đường dẫn chỉ đến /darknet/data
+-Đổi đường dẫn chỉ đến /darknet
+-Đổi đường dẫn chỉ đến /darknet/data/train.txt( valid.txt)
+
+*****Train*****
+-Đổi đường dẫn chỉ đến /darknet
+-Trong lần train đầu chạy cell có comment (train lần đầu)
+-Ở những lần chạy tiếp chạy ô dưới ô (train lần đầu)
+
+
+*****Test 1 hình*****
+-Có thể chụp trực tiếp bằng colab hoặc đổi đường dẫn đến ảnh muốn test
+
+*****Test cho tập Datatest*****
+-Tạo file test.txt trong folder data và thay đổi valid=data/test.txt trong tệp obj.data
+
+*****Predict và lưu ảnh đã predict (thresh 0.5)*****
+-Đổi source_path đến thư mục muốn predict
+-Đổi save_path đến thư mục để lưu kết quả
+
+
+
